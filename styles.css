@@ -30,6 +30,7 @@ transition: all 1s ease-in-out;
 background: linear-gradient(#ffffff27, #ffffff28);
 border-radius: inherit;
 position: absolute;
+transition: all 1s ease-in-out;
 
 }
 
